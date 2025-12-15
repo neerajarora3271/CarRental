@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Anton+SC&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+*{
+  font-family: "Inria Sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;}
+@theme {
+  --color-primary: #2563EB;
+  --color-primary-dull: #1F58D8;
+  --color-light: #F1F5F9;
+}
