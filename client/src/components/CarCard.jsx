@@ -2,7 +2,7 @@ import React from 'react';
 import { assets } from '../assets/assets';
 import { useNavigate } from 'react-router-dom';
 import { toast, ToastContainer } from 'react-toastify';
-import "react-toastify/dist/react-toastify.css";
+import "react-toastify/dist/ReactToastify.css";
 
 import { useAppContext } from '../context/AppContext';
 
