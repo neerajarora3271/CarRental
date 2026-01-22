@@ -74,7 +74,7 @@ const Hero = () => {
             <img
                 src={assets.main_car}
                 alt="car"
-                className="mx-auto w-full max-w-md sm:max-w-lg md:max-w-2xl lg:max-w-4xl h-auto"
+                className="mx-auto w-full max-w-md sm:max-w-lg md:max-w-2xl lg:max-w-1xl h-auto"
             />
         </div>
 
